@@ -1,0 +1,5 @@
+{
+  "Title": "My Project Name",
+  "project_slug": "{{ cookiecutter.Title.replace(' ', '') }}",
+  "Author": "John Fiocca"
+}

@@ -1,0 +1,4 @@
+Title: {{ cookiecutter.Title }}
+Author: {{ cookiecutter.Author }}
+Copyright: (c) 2024 John Fiocca
+
